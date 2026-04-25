@@ -6,3 +6,6 @@ export * from './lib/angular-draggable.directive';
 export * from './lib/angular-resizable.directive';
 export * from './lib/angular-draggable.module';
 export * from './lib/models/position';
+export * from './lib/models/resize-event';
+export * from './lib/models/resize-handle-type';
+export * from './lib/models/size';
